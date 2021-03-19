@@ -1,0 +1,24 @@
+ion-title{
+text-align: center;
+}
+
+ion-icon{
+position: absolute;
+right: 20px;
+color:black;
+}
+
+ion-checkbox{
+    color:orangered;
+    position: absolute;
+    right: 20px;
+}
+
+h5{
+    text-align: right;
+}
+
+.text{
+padding: 20px 20px 20px;
+
+}
